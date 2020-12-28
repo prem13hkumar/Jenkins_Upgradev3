@@ -4,7 +4,6 @@ pipeline {
             stage('Init') {
                   steps {
                         echo "Hi, this is Basha, macharla's Manik Basha"
-                        echo "We are Starting the Mirchi Tasting from other village"
                   }
             }
             stage('Build') {
